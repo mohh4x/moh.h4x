@@ -16,7 +16,7 @@ pip install art
 
 pkg install git
 
-git clone 
+git clone https://github.com/mohh4x/moh.h4x/blob/main/moh.h4x.zip
 
 unzip moh.h4x.zip
 
