@@ -18,6 +18,8 @@ pkg install git
 
 git clone 
 
+unzip moh.h4x.zip
+
 cd moh.h4x
 
 python menu.py 
