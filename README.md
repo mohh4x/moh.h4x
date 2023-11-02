@@ -11,6 +11,9 @@ pip install socket
 
 pip install cryptography
 
+pip install art
+
+
 pkg install git
 
 git clone 
